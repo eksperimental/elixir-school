@@ -5,7 +5,7 @@ title: OTP Supervisors
 category: advanced
 order: 6
 lang: en
-redirect_from
+redirect_from:
   - /lessons/advanced/otp-supervisors
 ---
 
